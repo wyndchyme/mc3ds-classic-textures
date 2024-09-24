@@ -2,4 +2,4 @@
 
 # Overview
 
-This is the Classic texture pack originally included as part of [Modernization MegaPack,](https://github.com/wyndchyme/mc3ds-modern) now also avaliable as a standlone mod!
+This is the Classic texture pack originally included as part of [Modernization MegaPack,](https://github.com/wyndchyme/mc3ds-modern) now also avaliable as a standalone mod!
